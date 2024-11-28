@@ -10,6 +10,9 @@ patent:
 - https://www.google.com/search?q=US711031
 - https://patentimages.storage.googleapis.com/b3/10/46/5cbe4ac6da965c/US711031.pdf
 
+## Chemistry:
+https://en.wikipedia.org/wiki/Carbothermic_reaction
+
 ## Crystal:
 https://en.wikipedia.org/wiki/Lely_method
 
