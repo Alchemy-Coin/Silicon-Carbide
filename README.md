@@ -18,4 +18,6 @@ https://en.wikipedia.org/wiki/Lely_method
 https://en.wikipedia.org/wiki/Coke_(fuel)
 
 # Book:
-- [Industrial Carbon and Graphite Materials, Volume I: Raw Materials, Production and Applications, I](https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527674046.ch6_2)
+- [Industrial Carbon and Graphite Materials, Volume I: Raw Materials, Production and Applications, I](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527674046)
+
+section: https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527674046.ch6_2
