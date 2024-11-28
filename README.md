@@ -10,6 +10,8 @@ patent:
 - https://www.google.com/search?q=US711031
 - https://patentimages.storage.googleapis.com/b3/10/46/5cbe4ac6da965c/US711031.pdf
 
+https://web.archive.org/web/*/http://www.sic.saint-gobain.com/the-art-of-silicon-carbide.aspx
+
 ## Chemistry:
 https://en.wikipedia.org/wiki/Carbothermic_reaction
 
